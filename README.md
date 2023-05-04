@@ -11,6 +11,8 @@ if you dont know how to allocate more memory, go to "help"
 you can install the modpack [here](https://drive.google.com/file/d/1bqbPxDOv7TGOeYZu5nK8w9Cciq6ID24H/view?usp=share_link)
 
 if it asks you to replace any files, just click yes
+
+if you are prompted to update a mod, simply click no
 # Help
 
 for the video on downloading the modpack go [here](https://youtu.be/cD0_LE9VYy8)
